@@ -1,11 +1,9 @@
 # Travis Dean - tjd2qj
-
+from helper import greeting
 
 def run():
     greeting("Hello")
 
-def greeting(msg):
-    print(msg)
 
 
 
