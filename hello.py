@@ -2,8 +2,10 @@
 
 
 def run():
-    print("Hello")
+    greeting("Hello")
 
+def greeting(msg):
+    print(msg)
 
 
 
